@@ -46,7 +46,7 @@ The **MedMatch** app is a comprehensive solution designed to enhance the efficie
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/medmatch.git
+   git clone https://github.com/Vanshpanchal/MedMatch.git 
    ```
 2. Open the project in Android Studio.
 3. Configure Firebase:
@@ -65,7 +65,6 @@ The **MedMatch** app is a comprehensive solution designed to enhance the efficie
    - View availability details and directions to shops.
 
 ## Screenshots
-
 
 ![1](https://github.com/user-attachments/assets/e4dd401c-a8bd-4aa0-bc5c-709eb6318f4b)
 ![2](https://github.com/user-attachments/assets/d32a8ce6-895f-4082-a3e2-4fa40987b1f2)
